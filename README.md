@@ -21,11 +21,15 @@ I am currently exploring AI applications, computer vision, and software developm
 # 🏆 Achievements
 
 • Class Representative (CR) in First Year
-• Participated in **Smart India Hackathon (SIH) – Intercollege Level**
+
+• Participated in Smart India Hackathon (SIH) – Intercollege Level
+
 • Social Media Handler in College Communication Team
 *(Focused on non-verbal communication and outreach)*
-• Solved **60+ problems on LeetCode**
-• Solved **50+ problems on GeeksforGeeks**
+
+• Solved 60+ problems on LeetCode
+
+• Solved 50+ problems on GeeksforGeeks
 
 
 
