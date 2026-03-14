@@ -4,7 +4,7 @@
 🧠 Double Minor in Artificial Intelligence and Data Science
 
 I enjoy problem solving, building AI systems, and writing code.
-I am currently exploring AI applications, computer vision, and software development** while continuously improving my Data Structures and Algorithms skills.
+I am currently exploring AI applications, computer vision, and software development.
 
 ---
 
@@ -39,24 +39,15 @@ I am currently exploring AI applications, computer vision, and software developm
 
 ### Programming Languages
 
-• Java
-• Python
-• Basic JavaScript
+ Java|Python|Javascript
 
 ### Technologies
 
-• REST APIs
-• Google Cloud Console
-• OpenCV
-• Vision Agents
-• MySQL
+ REST APIs| Google Cloud Console|OpenCV|Vision Agents|MySQL
 
-### Tools
+Tools
 
-• Git
-• GitHub
-• VS Code
-• IntelliJ IDEA
+Git | GitHub | VS Code | IntelliJ IDEA
 
 ---
 
@@ -86,8 +77,7 @@ Project Repository:
 
 • 60+ problems solved on **LeetCode**
 • 50+ problems solved on **GeeksforGeeks**
-
-
+(Key Areas: Arrays, String ,Recursion ,Stack)
 ---
 
 # 🌐 Connect With Me
