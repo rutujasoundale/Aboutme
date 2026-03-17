@@ -18,6 +18,7 @@ I am currently exploring AI applications, computer vision, and software developm
 • Enjoy building practical projects that combine AI + software development
 
 ---
+![rutujasoundale's GitHub stats](https://github-readme-stats.vercel.app)
 
 # 🏆 Achievements
 
