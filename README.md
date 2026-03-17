@@ -18,8 +18,7 @@ I am currently exploring AI applications, computer vision, and software developm
 • Enjoy building practical projects that combine AI + software development
 
 ---
-![rutujasoundale's GitHub stats](https://github-readme-stats.vercel.app)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutujasoundale)](https://github.com/anuraghazra/github-readme-stats)
 # 🏆 Achievements
 
 • Class Representative (CR) in First Year
