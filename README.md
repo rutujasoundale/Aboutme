@@ -19,19 +19,6 @@ I am currently exploring AI applications, computer vision, and software developm
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutujasoundale)](https://github.com/anuraghazra/github-readme-stats)
-# 🏆 Achievements
-
-• Class Representative (CR) in First Year
-
-• Participated in Smart India Hackathon (SIH) – Intercollege Level
-
-• Social Media Handler in College Communication Team
-*(Focused on non-verbal communication and outreach)*
-
-• Solved 60+ problems on LeetCode
-
-• Solved 50+ problems on GeeksforGeeks
-
 
 
 ---
@@ -44,16 +31,15 @@ I am currently exploring AI applications, computer vision, and software developm
 
 ### Technologies
 
- REST APIs| Google Cloud Console|OpenCV|Vision Agents|MySQL
+ REST APIs| Google Cloud Console|OpenCV|Vision Agents|MySQL|Flask
 
 ### Tools
 
 Git | GitHub | VS Code | IntelliJ IDEA
 
+### CORE CONCEPTS
 
-   ### CORE CONCEPTS
-
-   OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
+OOPS|CORE JAVA|Database Connectivity|API Integration|
     ---
 
 # 📂 Featured Project
