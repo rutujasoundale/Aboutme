@@ -1,85 +1,78 @@
 # Hi 👋 I'm Rutuja Soundale
 
-🎓 B.Tech in Electronics and Telecommunication Engineering(2023-2027)
+🎓 B.Tech in Electronics and Telecommunication Engineering (2023–2027)  
+🧠 Double Minor in Artificial Intelligence and Data Science  
 
-🧠 Double Minor in Artificial Intelligence and Data Science
-
-I enjoy problem solving, building AI systems, and writing code.
-I am currently exploring AI applications, computer vision, and software development.
+I enjoy solving problems, building AI systems, and developing scalable software.  
+Currently exploring AI applications, Computer Vision, and Backend Development.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-• Passionate about solving real-world problems using technology
+• Passionate about solving real-world problems using technology  
+• Interested in AI, Computer Vision, and Backend Systems  
+• Love building practical AI + software projects  
 
-• Interested in Artificial Intelligence, Computer Vision, and Backend Systems
+---
 
-• Enjoy building practical projects that combine AI + software development
+## 📊 GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=rutujasoundale&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujasoundale&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/rutujasoundale=DenverCoder1)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/rutujasoundale=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujasoundale&layout=compact&theme=dark)
 
+---
 
-# 💻 Skills
+## 💻 Skills
 
-### Programming Languages
-
- Java | Python
+### Programming
+Java | Python  
 
 ### Technologies
-
- REST APIs | OpenCV |Vision Agents | MySQL| Flask| Gemini API 
+REST APIs | OpenCV | MySQL | Flask | Gemini API  
 
 ### Tools
+Git | GitHub | VS Code | IntelliJ IDEA  
 
-Git | GitHub | VS Code | IntelliJ IDEA
-
-### CORE CONCEPTS
-
-OOPS|CORE JAVA|Database Connectivity|API Integration|Cybersecurity
-    ---
-    ---
-# 📂 Currently Working On
-🚀 SafeSurf
-
-SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, and user inputs to detect phishing, prompt injection, and cyber threats in real time.
-
-#🔧 Progress & Features
-
-• Building an AI-powered browser extension for real-time phishing & threat detection
-
-• Implemented Gemini (gemini-2.5-flash) based detection using API integration
-
-• Developing malicious script analysis for hidden threat detection (working on behavior-based identification)
-
-• Working on prompt injection & AI-based attack prevention as AI adoption increases across websites
-
-
-Technologies used:
-Flask • Javascript • Gemini API • Gemini-2.5-flash •Chrome Extension API (JavaScript)
-
-Security Focus: Phishing, Prompt Injection, Malware Analysis,Cookie management
-
-Project Repository:
-👉 https://github.com/rutujasoundale/SafeSurf
+### Core Concepts
+OOP | Core Java | DB Connectivity | API Integration | Cybersecurity  
 
 ---
 
-# 📊 Coding Practice
-(Key Areas: Arrays, String ,Recursion ,Stack,Hashmaps)
+## 📂 Current Project: SafeSurf 🚀
 
+SafeSurf is an AI-powered browser extension that detects phishing, prompt injection, and cyber threats in real-time.
 
-# 🌐 Connect With Me
+### 🔧 Features
+• AI-based phishing & threat detection  
+• Gemini API (gemini-2.5-flash) integration  
+• Malicious script behavior analysis (in progress)  
+• Prompt injection detection  
 
-GitHub
-👉 https://github.com/rutujasoundale
+### 🛠 Tech Stack
+Flask | JavaScript | Gemini API | Chrome Extension API  
 
-LinkedIn
-👉 [www.linkedin.com/in/rutuja-soundale-79b614288](http://www.linkedin.com/in/rutuja-soundale-79b614288)
+### 🔐 Security Focus
+Phishing | Prompt Injection | Malware Analysis | Cookie Management  
+
+👉 https://github.com/rutujasoundale/SafeSurf  
 
 ---
 
-⭐ Always open to collaboration and learning new technologies.
+## 📊 Coding Practice
+
+Key Areas: Arrays | Strings | Recursion | Stack | HashMaps  
+
+---
+
+## 🌐 Connect With Me
+
+🔗 GitHub: https://github.com/rutujasoundale  
+🔗 LinkedIn: http://www.linkedin.com/in/rutuja-soundale-79b614288  
+
+---
+
+⭐ Open to collaboration and learning new technologies!
