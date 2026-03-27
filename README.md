@@ -69,7 +69,7 @@ Project Repository:
 ---
 
 # 📊 Coding Practice
-(Key Areas: Arrays, String ,Recursion ,Stack)
+(Key Areas: Arrays, String ,Recursion ,Stack,Hashmaps)
 
 
 # 🌐 Connect With Me
