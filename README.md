@@ -65,7 +65,8 @@ Phishing | Prompt Injection | Malware Analysis | Cookie Management
 ## 📊 Problem Solving using JAVA
 
 Key Areas: Arrays | Strings | Recursion | Stack | HashMaps
-Learning diary:https://github.com/rutujasoundale/leetcode-gfg-problems
+
+Learning diary:https://github.com/rutujasoundale/leetcode-gfg-solutions
 
 ---
 
