@@ -10,9 +10,6 @@ Currently exploring Core java,(Springboot) Backend Development and integrating A
 
 ## 🚀 About Me
 
-• Passionate about solving real-world problems using technology  
-• Interested in AI, machine learning and Backend Systems  
-• Love building practical AI + software projects  
 
 ---
 
