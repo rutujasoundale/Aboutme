@@ -25,13 +25,13 @@ Currently exploring Core java,(Springboot) Backend Development and integrating A
 Java | Python  
 
 ### Technologies
-REST APIs | OpenCV | MySQL | Flask | Gemini API  
+REST APIs | OpenCV | MySQL | Flask | Gemini API   
 
 ### Tools
 Git | GitHub | VS Code | IntelliJ IDEA  
 
 ### Core Concepts
-OOP | Core Java | DB Connectivity | API Integration | Cybersecurity|Springboot(basic)
+OOP | Core Java | DB Connectivity | API Integration | Cybersecurity 
 
 ---
 
